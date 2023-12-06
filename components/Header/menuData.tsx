@@ -9,19 +9,19 @@ const menuData: Menu[] = [
   },
   {
     id: 2,
-    title: "关于",
+    title: "About",
     path: "/about",
     newTab: false,
   },
   {
     id: 33,
-    title: "动态",
+    title: "Blog",
     path: "/blog",
     newTab: false,
   },
   {
     id: 3,
-    title: "支持",
+    title: "Support",
     path: "/contact",
     newTab: false,
   },
